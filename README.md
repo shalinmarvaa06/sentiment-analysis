@@ -26,16 +26,12 @@ This project analyzes user reviews of the Blibli mobile application collected fr
 
 | Review | Rating |
 |---------|--------|
-| Barang cepat sampai | 5 |
-| Aplikasi sering error | 1 |
-| Pelayanan sangat memuaskan | 5 |
+| goooood | 5 |
+| ada kendala stlh di update..langsung direspon sm sistem dan dibantu cari solusinya..Thanks..masalah sudah teratasi. | 1 |
+| proses retur lamban | 5 |
 | Pembayaran gagal terus | 2 |
-| Mudah digunakan | 5 |
-| Kurir lama datang | 2 |
-| Banyak promo menarik | 5 |
-| Login sering gagal | 1 |
-| Pengiriman cepat | 5 |
-| Aplikasi lemot | 2 |
+| mantappppp betulllll | 5 |
+| pengalaman belanja sangat baik , Customer service nya juara bagus banget. | 2 |
 
 ## Tools & Libraries
 
