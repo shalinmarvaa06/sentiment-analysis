@@ -1,4 +1,4 @@
-# sentiment-analysis
+# BIBLI SENTIMENT ANALYSIS
 Google Play Review Sentiment Analysis (Blibli)
 
 🔗 Google Colab Links: https://colab.research.google.com/drive/1oWq0mvVhD0msi9I22_KY0v6JtRdw-m2W?usp=sharing
@@ -107,7 +107,7 @@ The Naive Bayes model outperformed KNN in this classification task, likely becau
 In conclusion, It is proven by the graphic that the majority reviews for Bibli application in Google Playstore are positives.
 
 
-## sentiment-analysis
+## YOUTUBE SENTIMENT ANALYSIS
 Youtube comment sentiment analysis
 
 Youtube video: https://www.youtube.com/watch?v=z0PFetRQg4Q
