@@ -68,9 +68,15 @@ This project analyzes user comments collected from a public YouTube video to und
 
 ![Sentiment Distribution](sentiment-video-comment-graphic.png)
 
-The majority of comments were classified as **Positive**, indicating that viewers generally responded favorably to the video.
+**Key observations:**
+- Positive sentiment indicates that many viewers expressed support or appreciation for the discussion presented in the video.
+- Neutral comments mainly consisted of questions, factual discussions, or opinions without a clear positive or negative stance.
+- Negative comments represented a smaller share and were generally associated with disagreement or criticism toward certain viewpoints discussed in the debate.
 
----
+**Insights**
+
+The results suggest that the YouTube audience responded constructively to the discussion. The high proportion of positive and neutral comments indicates that viewers were generally engaged with the topic and participated in meaningful discussions rather than expressing predominantly negative reactions.
+
 
 ### Word Cloud
 
