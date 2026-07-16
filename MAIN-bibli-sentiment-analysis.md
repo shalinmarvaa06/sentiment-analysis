@@ -77,13 +77,10 @@ The positive word cloud indicates that users generally had a satisfying shopping
 
 **Key observations:**
 
-"mantap", "bagus", and "keren" reflect high overall customer satisfaction.
-
-"mudah", "cepat", and "lancar" suggest that users found the application easy to use and responsive.
-
-"promo", "diskon", and "voucher" show that promotional campaigns and competitive pricing were highly appreciated.
-
-"terpercaya", "aman", and "original" indicate strong customer trust in product authenticity and transaction security.
+- "mantap", "bagus", and "keren" reflect high overall customer satisfaction.
+- "mudah", "cepat", and "lancar" suggest that users found the application easy to use and responsive.
+- "promo", "diskon", and "voucher" show that promotional campaigns and competitive pricing were highly appreciated.
+- "terpercaya", "aman", and "original" indicate strong customer trust in product authenticity and transaction security.
 
 Negative Reviews
 
@@ -93,13 +90,10 @@ The negative word cloud highlights the main issues experienced by users.
 
 **Key observations:**
 
-"barang", "kirim", "batal", and "retur" indicate that shipping delays, order cancellations, and return processes were common complaints.
-
-"bayar", "refund", "saldo", and "paylater" suggest payment and refund-related issues.
-
-"error", "login", and "apk" reveal recurring technical problems affecting user experience.
-
-"chat" and "cs" imply dissatisfaction with customer support responsiveness.
+- "barang", "kirim", "batal", and "retur" indicate that shipping delays, order cancellations, and return processes were common complaints.
+- "bayar", "refund", "saldo", and "paylater" suggest payment and refund-related issues.
+- "error", "login", and "apk" reveal recurring technical problems affecting user experience.
+- "chat" and "cs" imply dissatisfaction with customer support responsiveness.
 
 ### Model Accuracy Comparison
 ![Model Comparison](model-sentiment-bibli.png)
