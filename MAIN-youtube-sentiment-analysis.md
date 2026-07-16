@@ -82,18 +82,12 @@ The results suggest that the YouTube audience responded constructively to the di
 
 ![Word Cloud](wordcloud-youtube.png)
 
-The Word Cloud highlights the most frequently mentioned words in user comments, providing a quick overview of the dominant discussion topics and audience feedback.
+**Key Observations**
+- "MBG" (Free Nutritious Meals Program) appeared as one of the most prominent keywords, indicating that the program was the central topic of discussion.
+- Words such as "infrastruktur" (infrastructure), "SPP" (school tuition), "sekolah" (school), and "dana" (funds) suggest that many viewers discussed government budget allocation and public service priorities.
+- Economic-related terms including "harga" (price), "pasar" (market), "pedagang" (merchant), and "petani" (farmer) indicate that viewers frequently connected the discussion to broader economic conditions and their real-life experiences.
+- Keywords such as "mahasiswa" (students) and "rakyat" (people) show that the conversation also focused on public participation and the role of students in expressing social concerns.
 
----
+**Discussion**
 
-## Key Findings
-
-- Successfully scraped **150 YouTube comments** using Python.
-- Translated Indonesian comments into English for sentiment analysis.
-- Classified comments into **Positive**, **Neutral**, and **Negative** categories.
-- Most viewer feedback expressed positive opinions toward the content.
-- Generated a Word Cloud to identify the most frequently discussed topics.
-
----
-
-## Result
+The word cloud suggests that the comment section extended beyond reactions to the debate itself. Viewers actively discussed public policy, education, infrastructure, and economic issues, indicating a high level of engagement with the broader topics presented in the video.
