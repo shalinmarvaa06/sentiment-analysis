@@ -17,7 +17,7 @@ This project analyzes user reviews of the Blibli mobile application collected fr
 
 - **Source:** Google Play Store
 - **Application:** Blibli
-- **Reviews Collected:** 100
+- **Reviews Collected:** 1500
 - **Language:** Indonesian
 
 ### Dataset Preview
