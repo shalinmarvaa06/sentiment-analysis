@@ -1,6 +1,8 @@
 ## sentiment-analysis
 Youtube comment sentiment analysis
+
 Youtube video: https://www.youtube.com/watch?v=z0PFetRQg4Q
+
 Google Colab link: https://colab.research.google.com/drive/1dZnbP6xPRA34mEpBXKiyI5pxrs_ZZmfU?usp=sharing
 
 ## Project Overview
