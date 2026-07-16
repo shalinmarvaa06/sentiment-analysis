@@ -63,20 +63,19 @@ This project analyzes user reviews of the Blibli mobile application collected fr
 
 ### Sentiment Distribution
 
-*(Insert screenshot)*
+![Sentiment Distribution](sentiment-percentage.png)
 
 ### Word Cloud
 
 Positive Reviews
 
-*(Insert screenshot)*
+![Positive Reviews](wordcloud-positive-bibli.png)
 
 Negative Reviews
 
-*(Insert screenshot)*
+![Negative Reviews](wordcloud-negative-bibli.png)
 
 ### Model Accuracy Comparison
 
-*(Insert screenshot)*
 
 ## Result
