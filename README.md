@@ -76,6 +76,7 @@ Positive Reviews
 The positive word cloud indicates that users generally had a satisfying shopping experience.
 
 **Key observations:**
+
 "mantap", "bagus", and "keren" reflect high overall customer satisfaction.
 
 "mudah", "cepat", and "lancar" suggest that users found the application easy to use and responsive.
