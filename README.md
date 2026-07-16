@@ -3,7 +3,7 @@ Google Play Review Sentiment Analysis (Blibli)
 
 ## Project Overview
 
-This project analyzes user reviews of the **Blibli** mobile application collected from the Google Play Store. The objective is to understand customer sentiment by performing text preprocessing, sentiment labeling, visualization, and machine learning classification.
+This project analyzes user reviews of the Blibli mobile application collected from the Google Play Store. The objective is to understand customer sentiment by performing text preprocessing, sentiment labeling, visualization, and machine learning classification.
 
 ## Objectives
 
@@ -60,8 +60,6 @@ This project analyzes user reviews of the **Blibli** mobile application collecte
 
 - Multinomial Naive Bayes
 - K-Nearest Neighbors (KNN)
-
----
 
 ## Visualizations
 
