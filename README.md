@@ -76,6 +76,6 @@ Negative Reviews
 ![Negative Reviews](wordcloud-negative-bibli.png)
 
 ### Model Accuracy Comparison
-
+![Model Comparison](model-sentiment-bibli.png)
 
 ## Result
