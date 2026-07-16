@@ -65,6 +65,8 @@ This project analyzes user reviews of the Blibli mobile application collected fr
 
 ![Sentiment Distribution](sentiment-percentage.png)
 
+Approximately 69% of reviews were classified as positive, suggesting that most users had a favorable experience with the application.
+
 ### Word Cloud
 
 Positive Reviews
