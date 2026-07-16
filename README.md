@@ -79,3 +79,4 @@ Negative Reviews
 ![Model Comparison](model-sentiment-bibli.png)
 
 ## Result
+![Result](review-comparison-graphic-bibli.png)
