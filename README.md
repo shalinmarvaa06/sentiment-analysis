@@ -92,6 +92,7 @@ Negative Reviews
 The negative word cloud highlights the main issues experienced by users.
 
 **Key observations:**
+
 "barang", "kirim", "batal", and "retur" indicate that shipping delays, order cancellations, and return processes were common complaints.
 
 "bayar", "refund", "saldo", and "paylater" suggest payment and refund-related issues.
