@@ -66,7 +66,7 @@ This project analyzes user comments collected from a public YouTube video to und
 
 ### Sentiment Distribution
 
-![Sentiment Distribution](sentiment-distribution.png)
+![Sentiment Distribution](sentiment-video-comment-graphic.png)
 
 The majority of comments were classified as **Positive**, indicating that viewers generally responded favorably to the video.
 
