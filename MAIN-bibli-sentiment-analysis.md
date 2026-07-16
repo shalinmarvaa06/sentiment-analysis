@@ -69,7 +69,7 @@ Approximately 69% of reviews were classified as positive, suggesting that most u
 
 ### Word Cloud
 
-Positive Reviews
+**Positive Reviews**
 
 ![Positive Reviews](wordcloud-positive-bibli.png)
 
@@ -82,7 +82,8 @@ The positive word cloud indicates that users generally had a satisfying shopping
 - "promo", "diskon", and "voucher" show that promotional campaigns and competitive pricing were highly appreciated.
 - "terpercaya", "aman", and "original" indicate strong customer trust in product authenticity and transaction security.
 
-Negative Reviews
+
+**Negative Reviews**
 
 ![Negative Reviews](wordcloud-negative-bibli.png)
 
