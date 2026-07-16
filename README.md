@@ -73,12 +73,32 @@ Positive Reviews
 
 ![Positive Reviews](wordcloud-positive-bibli.png)
 
+The positive word cloud indicates that users generally had a satisfying shopping experience.
+
+**Key observations:**
+"mantap", "bagus", and "keren" reflect high overall customer satisfaction.
+"mudah", "cepat", and "lancar" suggest that users found the application easy to use and responsive.
+"promo", "diskon", and "voucher" show that promotional campaigns and competitive pricing were highly appreciated.
+"terpercaya", "aman", and "original" indicate strong customer trust in product authenticity and transaction security.
+
 Negative Reviews
 
 ![Negative Reviews](wordcloud-negative-bibli.png)
 
+The negative word cloud highlights the main issues experienced by users.
+
+**Key observations:**
+"barang", "kirim", "batal", and "retur" indicate that shipping delays, order cancellations, and return processes were common complaints.
+"bayar", "refund", "saldo", and "paylater" suggest payment and refund-related issues.
+"error", "login", and "apk" reveal recurring technical problems affecting user experience.
+"chat" and "cs" imply dissatisfaction with customer support responsiveness.
+
 ### Model Accuracy Comparison
 ![Model Comparison](model-sentiment-bibli.png)
 
+The Naive Bayes model outperformed KNN in this classification task, likely because Naive Bayes is well suited for sparse TF-IDF text features.
+
 ## Result
 ![Result](review-comparison-graphic-bibli.png)
+
+In conclusion, It is proven by the graphic that the majority reviews for Bibli application in Google Playstore are positives.
