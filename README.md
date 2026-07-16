@@ -1,5 +1,6 @@
 # sentiment-analysis
 Google Play Review Sentiment Analysis (Blibli)
+🔗 Google Colab Links: https://colab.research.google.com/drive/1oWq0mvVhD0msi9I22_KY0v6JtRdw-m2W?usp=sharing
 
 ## Project Overview
 
